@@ -1,0 +1,6 @@
+C:\Users\Eva\Pictures\PracticaParcial\Entity\bin\Debug\Entity.dll
+C:\Users\Eva\Pictures\PracticaParcial\Entity\bin\Debug\Entity.pdb
+C:\Users\Eva\Pictures\PracticaParcial\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Eva\Pictures\PracticaParcial\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Eva\Pictures\PracticaParcial\Entity\obj\Debug\Entity.dll
+C:\Users\Eva\Pictures\PracticaParcial\Entity\obj\Debug\Entity.pdb

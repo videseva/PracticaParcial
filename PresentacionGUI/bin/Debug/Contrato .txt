@@ -1,0 +1,5 @@
+Prestación de servicio;123;eva vides;1000;12/11/2020
+Licitación Pública;456;leidys vides;5000;11/11/2020
+Subasta Inversa;789;isabellla vides;6000;10/11/2020
+Prestación de servicio;12344455;luis fontalvo;20000;09/11/2020
+Prestación de servicio;888888;mario bros;120;12/11/2020

@@ -1,0 +1,14 @@
+C:\Users\Eva\Pictures\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe.config
+C:\Users\Eva\Pictures\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe
+C:\Users\Eva\Pictures\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.pdb
+C:\Users\Eva\Pictures\PracticaParcial\PracticaParcial\bin\Debug\BLL.dll
+C:\Users\Eva\Pictures\PracticaParcial\PracticaParcial\bin\Debug\Entity.dll
+C:\Users\Eva\Pictures\PracticaParcial\PracticaParcial\bin\Debug\DAL.dll
+C:\Users\Eva\Pictures\PracticaParcial\PracticaParcial\bin\Debug\BLL.pdb
+C:\Users\Eva\Pictures\PracticaParcial\PracticaParcial\bin\Debug\Entity.pdb
+C:\Users\Eva\Pictures\PracticaParcial\PracticaParcial\bin\Debug\DAL.pdb
+C:\Users\Eva\Pictures\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csprojAssemblyReference.cache
+C:\Users\Eva\Pictures\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.CoreCompileInputs.cache
+C:\Users\Eva\Pictures\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.CopyComplete
+C:\Users\Eva\Pictures\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.exe
+C:\Users\Eva\Pictures\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.pdb

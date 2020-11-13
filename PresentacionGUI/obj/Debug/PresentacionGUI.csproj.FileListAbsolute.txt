@@ -1,0 +1,17 @@
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\bin\Debug\PresentacionGUI.exe.config
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\bin\Debug\PresentacionGUI.exe
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\bin\Debug\PresentacionGUI.pdb
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\bin\Debug\BLL.dll
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\bin\Debug\Entity.dll
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\bin\Debug\DAL.dll
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\bin\Debug\BLL.pdb
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\bin\Debug\Entity.pdb
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\bin\Debug\DAL.pdb
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\obj\Debug\PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\obj\Debug\PresentacionGUI.FrmPrincipal.resources
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\obj\Debug\PresentacionGUI.Properties.Resources.resources
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\obj\Debug\PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\obj\Debug\PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\obj\Debug\PresentacionGUI.csproj.CopyComplete
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\obj\Debug\PresentacionGUI.exe
+C:\Users\Eva\Pictures\PracticaParcial\PresentacionGUI\obj\Debug\PresentacionGUI.pdb
